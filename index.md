@@ -2,122 +2,53 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# 课程信息
 
-[Link to another page](./another-page.html).
+- 教室:	昌平新校区-114
+- 时间:	6:40pm-9:00pm，周三（1～16周）
+- 课程教授：燕博南 (主页：[bonany.cc](https://bonany.cc))
+- Email:	bonanyan AT pku.edu.cn
 
-There should be whitespace between paragraphs.
+# 教学计划
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+| *周* | *日期*   | *类别* | *内容*                            | *主讲人* | *备注* |
+| ---- | -------- | ------ | --------------------------------- | -------- | ------ |
+| 1    | 23/9/13  | ⓵理论 | 课程介绍 & 嵌入式系统开发概论     | 燕博南   |        |
+| 2    | 23/9/20  | ⓵理论 | 嵌入式系统组成                    | 燕博南   |        |
+| 3    | 23/9/27  | ⓵理论 | 人工智能算法相关                  | 燕博南   |        |
+| 4    | 23/10/4  |        | 欢度假期                          |          |        |
+| 5    | 23/10/11 | ⓶实践 | K210入门-1                        | _待定_   |        |
+| 6    | 23/10/18 | ⓶实践 | K210入门-2                        | _待定_   |        |
+| 7    | 23/10/25 | ⓵理论 | 信息物理系统方法-1                | 燕博南   |        |
+| 8    | 23/11/1  | ⓶实践 | K210外设编程-1                    | _待定_   |        |
+| 9    | 23/11/7  | ⓶实践 | K210外设编程-2                    | _待定_   |        |
+| 10   | 23/11/15 | ⓵理论 | 信息物理系统方法-2                | 燕博南   |        |
+| 11   | 23/11/22 | ⓶实践 | K210人工智能编程-1                | _待定_   |        |
+| 12   | 23/11/29 | ⓶实践 | K210人工智能编程-2                | _待定_   |        |
+| 13   | 23/12/6  | ⓵理论 | 创意项目开题 & 信息物理系统方法-3 | 燕博南   |        |
+| 14   | 23/12/13 | ⓵理论 | 信息物理系统方法-4                | 燕博南   |        |
+| 15   | 23/12/20 | ⓵理论 | 课程总结 + 创意项目赶进度         | 燕博南   |        |
+| 16   | 23/12/27 | ⓷创意 | 项目展示+互评打分                 | @所有人  |        |
+| 17   | 24/1/3   |        |                                   |          |        |
+| 18   | 24/1/10  |        | 课程项目书面报告+代码，提交截止   |          |        |
 
 
-### Definition lists can be used with HTML syntax.
+# 课程资源
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+## 开发板资源
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+- [开发者资料](xx)
+- 开发板型号: _PaddlePi_ 
+- 例程：[https://github.com/kendryte/PaddlePi](https://github.com/kendryte/PaddlePi)
 
-```
-The final element.
-```
+## 进阶开发板
+
+- 开发板型号：_CanMV CM-1_
+
+# 成绩考核方式：
+
+- 实践主讲（45%）
+- 课程项目随堂报告展示（40%）
+  - 实践随堂程序：10% × 3
+  - 论文分享：10%
+- 课程项目书面报告（15%）
