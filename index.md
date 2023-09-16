@@ -37,7 +37,7 @@ layout: default
 
 ## 开发板资源
 
-- [开发者资料](xx)
+- [开发者资料](/assets/doc/K210开发资料给客户_20221008.7z)
 - 开发板型号: _PaddlePi_ 
 - 例程：[https://github.com/kendryte/PaddlePi](https://github.com/kendryte/PaddlePi)
 
