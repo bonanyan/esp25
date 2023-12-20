@@ -35,10 +35,10 @@ title: 嵌入式系统编程与实践
 ## Final Project说明
 - 考虑到大家可以在16周搞定final project，我们把final project提交截止日期稍微提前2天吧：
 
-  -[https://disk.pku.edu.cn:443/link/67013615DD7229EDE8485673D87F786E](https://disk.pku.edu.cn:443/link/67013615DD7229EDE8485673D87F786E)
-  - password: fH2k
+  - 提交链接：[https://disk.pku.edu.cn:443/link/67013615DD7229EDE8485673D87F786E](https://disk.pku.edu.cn:443/link/67013615DD7229EDE8485673D87F786E)
+  - 提交链接密码：fH2k
 
-- 2024年1月5日23:59:59，到时候打包zip/tar提交：
+- 2024年1月5日23:59:59，到时候打包zip/tar提交（文件名：姓名_学号.zip）：
   - 源代码：（整体项目文件）
   - 项目演示视频 (.mp4格式)
   - 视频发布知情书(1)选项、(2)签名、(3)提交pdf（[知情书（空白）](/assets/doc/VRA.docx)）
