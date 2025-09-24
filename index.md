@@ -48,7 +48,7 @@ title: 嵌入式系统编程与实践
 
 ### 课件
 
-- 见[北大教学网](http://course.pku.edu.cn)-课程资料
+- 见[北大教学网](http://course.pku.edu.cn)-教学内容
 
 ### 开发板资源  
 
@@ -57,7 +57,7 @@ title: 嵌入式系统编程与实践
 
 - 开发板型号：PaddlePi (K210)
   - 例程：[https://github.com/kendryte/PaddlePi/tree/master/standalone-demos](https://github.com/kendryte/PaddlePi/tree/master/standalone-demos)
-  - 开发板资料见[北大教学网](http://course.pku.edu.cn)-课程资料
+  - 开发板资料见[北大教学网](http://course.pku.edu.cn)-教学内容
 
 ## 主要参考书：
 
